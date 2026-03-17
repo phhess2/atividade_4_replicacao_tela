@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+}
+
+.titulo {
+    background-color: rgb(196, 196, 196);
+    color:rgb(34, 32, 32);
+    border: 0;
+}
+
+.barraamarela{
+    height: 20px;
+    width: 100%;
+    background: repeating-linear-gradient(
+        45deg,
+        #f4d03f,
+        #f4d03f 20px,
+        #f7dc6f 20px,
+        #f7dc6f 40px
+    );
+}
+
+.menu{
+    display: flex;
+    background-color:rgb(196,196,196);
+    border: 0;
+    padding:5px;
+    gap:5px;
+}
+
+.divisao1{
+    display:flex;
+}
+
+.bloco1{
+    display:block;
+    height: 900px;
+    width: 400px;
+}
+
+.titulob1{
+    display: flex;
+    gap:80px;
+    
+}
+
+.rep{
+    padding-top: 5px;
+}
+
+.botaosb1{
+    display:flex;
+    gap:5px;
+    background: rgb(196, 196, 196);
+    padding: 5px;
+}
+
+.borda1{
+    height:2px;
+    width:100%;
+    background-color:blue;
+}
+
+.branco{
+    height:20px;
+    width: 100%;
+    background-color: white;
+}
+
+.divisao2{
+   padding-bottom: 900px;
+   width:5px;
+    background-color: rgb(211, 210, 210);
+}
+
+.icone{
+    padding-top: 5px;
+}
+
+.bloco2{
+    display:block;
+    width:100%;
+}
+
+.titulo2{
+    height:50px;
+    display:flex;
+    gap:20px;
+    background-color:rgb(196, 196, 196);
+
+}
+
+.eng{
+    padding-left: 50px;
+}
+
+.seta{
+    padding-top: 15px;
+}
+
+.ajustar{
+    padding-top: 10px;
+}
+
+.botaosb2{
+    display: flex;
+    background-color: rgb(196, 196, 196);
+    height:30px
+}
+
+.botaodireita{
+    display:flex;
+    padding-left: 950px;
+
+}
+
+#up{
+    padding-left: 4px;
+}
+
+#ajustar2{
+    padding-top: 15px;
+}
