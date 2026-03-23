@@ -121,3 +121,41 @@
 #ajustar2{
     padding-top: 15px;
 }
+
+.tabela{
+    gap: 20px;
+    border: 2px solid;
+    width:100%;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+
+.tabela td{
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid;
+    padding-left: 10px;
+    height: 25px;
+
+}
+
+.tabela th{
+    border: 1px solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding-left: 10px;
+    height: 25px;
+}
+
+#cinza{
+    background-color: rgb(235, 235, 235);
+}
+
+.barracinza{
+    height: 10px;
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+}
+
